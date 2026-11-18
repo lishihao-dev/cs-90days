@@ -53,3 +53,6 @@ secrets.properties
 data/raw/
 *.sqlite
 *.db
+
+# Day1 编译产物
+day01/out/
